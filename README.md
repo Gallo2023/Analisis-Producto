@@ -1,10 +1,9 @@
-# Ventas Periodos Segmentados PWBI
+# Proyectos Varios Power BI
 
-## 📊 Analisis Ventas en Diferentes Segmentos de Tiempo
+## 📊 Dashboards Variados Analisis Ventas - Productos - Utilidad
 
-Miniproyecto para Analizar Ventas aplicando diferentes segmentos de ventas.
-Esto permite medir, comparar y analizar comportamientos, buscando patrones para buscar oportunidades de mejora, 
-identificar cambios estacionales y/o detectar cambios rapidamente y aplicar planes de acción para cambiar tendencias.
+Un compilado de miniproyectos con diversos dashboards por ejemplo:
+Analizando evolucion de utilidades en el tiempo, Comparativos distribucion ventas, analisis aperturando en base a modalidad de compra, busqueda de patrones de comportamientos por productos, ranking productos estilo top 5, analisis complejos de variables interrelacionadas, etc.
 
 ## 🖼️ Vista previa
 
@@ -18,7 +17,7 @@ identificar cambios estacionales y/o detectar cambios rapidamente y aplicar plan
 
 ## 🚀 Tecnologías
 - Microsoft Power BI Desktop
-- Fórmulas DAX para segmentar diferentes periodos de tiempo.
 - Microsoft Power Point para presentación preliminar del Dashboard.
+- Conceptos Estadistica Basica
 
 ###### Gabriel Gallardo
